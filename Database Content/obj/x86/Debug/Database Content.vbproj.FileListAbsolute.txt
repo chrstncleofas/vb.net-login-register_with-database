@@ -1,0 +1,11 @@
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\bin\Debug\Database Content.exe
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\bin\Debug\Database Content.pdb
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\bin\Debug\Database Content.xml
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database_Content.Form1.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database_Content.Form2.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database_Content.Resources.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database Content.vbproj.GenerateResource.Cache
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database Content.exe
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database Content.xml
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database Content.pdb
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Database Content\Database Content\obj\x86\Debug\Database_Content.Form3.resources
